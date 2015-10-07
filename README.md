@@ -1,6 +1,8 @@
 AndroidFizzBuzz
 ===============
 
+This is some new text!
+
 This is the source code for the Thinkful Android Fizz Buzz App for Unit 1.
 
 This app is purposely incomplete. With your newly learned java skills your task is to complete this project and run it in the emulator.
